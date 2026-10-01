@@ -9,7 +9,7 @@ The dashboard provides a clear overview of shopping store performance through in
 
 ## 📌 Dashboard Preview
 
-![Shopping Store Dashboard](shopping-store-dashboard.png)
+![Shopping Store Dashboard](shopping store dashboard.png)
 
 ---
 
